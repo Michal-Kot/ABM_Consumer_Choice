@@ -1,2 +1,2 @@
 # ABM_Consumer_Choice
-Repository for an article AGENT-BASED MODEL OF CONSUMER CHOICE: A METHOD FOR OPTIMISATION OF FIRM’S MARKETING MIX
+Repository for an article Agent-based model of consumer choice: a method for optimisation of firm's marketing mix.
